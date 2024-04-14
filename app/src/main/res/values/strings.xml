@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Loginflow</string>
+    <string name="hello">Hey Hello,</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="terms_and_condtions">Terms and Contionds for the company policy, plase read it carefully.\n</string>
+    <string name="terms_and_conditions_header">Terms and Conditions\n</string>
+    <string name="register">Register</string>
+    <string name="or">Or</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="Email">Email</string>
+    <string name="forgot">Forgot your password?</string>
+
+
+</resources>
